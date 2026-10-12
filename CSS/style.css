@@ -1,0 +1,31 @@
+.container {
+   width: 500px;
+   margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    text-align: center;
+    background-color: beige;
+    color:rgb(42, 26, 11);
+}
+body {
+    background-color:rgb(108, 156, 78);
+    font-family: 'Courier New', Century Gothic, monospace, sans-serif;
+}
+
+body {
+ text-align: center;
+  font-size: 30px;
+  margin: 0px;
+  padding: -50px;
+  color:rgb(250, 255, 210);
+}
+h2{
+    font-size: 50px;
+    text-align: center;
+}
+p {
+    font-size: 30px;
+    text-align: center;
+    line-height: 1.5;
+}
+
